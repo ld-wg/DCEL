@@ -72,7 +72,11 @@ Este comando gera um arquivo SVG para cada face da malha, permitindo visualizar:
 - Numeração dos vértices
 - Estrutura completa da DCEL
 
+<img width="584" alt="Screenshot 2025-05-29 at 23 45 50" src="https://github.com/user-attachments/assets/afb057b8-71fe-4ad0-847e-d7af9a4894d2" />
+<img width="584" alt="Screenshot 2025-05-29 at 23 46 29" src="https://github.com/user-attachments/assets/7dd5b3f6-6c87-499a-a511-b19fbdbfc8fd" />
+
 ## Introdução
+
 
 Este artigo apresenta uma implementação completa de uma estrutura de dados DCEL (Doubly Connected Edge List) para representação e validação de subdivisões planares. O sistema resolve problemas fundamentais em geometria computacional:
 
