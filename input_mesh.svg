@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+<title>Input Mesh</title>
+<polygon points="300,50 50,216 133,300 300,133" fill="rgba(50,100,150,0.3)" stroke="black" stroke-width="2"/>
+<polygon points="300,50 300,133 466,300 550,216" fill="rgba(90,160,230,0.3)" stroke="black" stroke-width="2"/>
+<polygon points="550,216 466,300 383,466 466,550" fill="rgba(130,220,55,0.3)" stroke="black" stroke-width="2"/>
+<polygon points="466,550 383,466 216,466 133,550" fill="rgba(170,25,135,0.3)" stroke="black" stroke-width="2"/>
+<polygon points="133,550 216,466 133,300 50,216" fill="rgba(210,85,215,0.3)" stroke="black" stroke-width="2"/>
+<polygon points="300,133 133,300 216,466 383,466 466,300" fill="rgba(250,145,40,0.3)" stroke="black" stroke-width="2"/>
+<polygon points="300,50 550,216 466,550 133,550 50,216" fill="rgba(35,205,120,0.3)" stroke="black" stroke-width="2"/>
+<circle cx="300" cy="50" r="5" fill="red"/>
+<text x="308" y="42" font-family="Arial" font-size="12" fill="black">1</text>
+<circle cx="50" cy="216" r="5" fill="red"/>
+<text x="58" y="208" font-family="Arial" font-size="12" fill="black">2</text>
+<circle cx="300" cy="133" r="5" fill="red"/>
+<text x="308" y="125" font-family="Arial" font-size="12" fill="black">3</text>
+<circle cx="550" cy="216" r="5" fill="red"/>
+<text x="558" y="208" font-family="Arial" font-size="12" fill="black">4</text>
+<circle cx="133" cy="300" r="5" fill="red"/>
+<text x="141" y="292" font-family="Arial" font-size="12" fill="black">5</text>
+<circle cx="466" cy="300" r="5" fill="red"/>
+<text x="474" y="292" font-family="Arial" font-size="12" fill="black">6</text>
+<circle cx="216" cy="466" r="5" fill="red"/>
+<text x="224" y="458" font-family="Arial" font-size="12" fill="black">7</text>
+<circle cx="383" cy="466" r="5" fill="red"/>
+<text x="391" y="458" font-family="Arial" font-size="12" fill="black">8</text>
+<circle cx="133" cy="550" r="5" fill="red"/>
+<text x="141" y="542" font-family="Arial" font-size="12" fill="black">9</text>
+<circle cx="466" cy="550" r="5" fill="red"/>
+<text x="474" y="542" font-family="Arial" font-size="12" fill="black">10</text>
+<text x="10" y="30" font-family="Arial" font-size="16" fill="black" font-weight="bold">Input Mesh</text>
+<text x="10" y="50" font-family="Arial" font-size="12" fill="black">Vertices: 10</text>
+<text x="10" y="70" font-family="Arial" font-size="12" fill="black">Faces: 7</text>
+</svg>
